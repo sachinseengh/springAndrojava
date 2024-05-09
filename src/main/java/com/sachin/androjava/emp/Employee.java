@@ -2,10 +2,10 @@ package com.sachin.androjava.emp;
 
 public class Employee {
 
-//	
-//	Employee(){
-//		System.out.println("constr chalyo");
-//	}
+	
+	Employee(){
+		System.out.println("constr chalyo");
+	}
 	
 	private String Name;
 	private int id;
