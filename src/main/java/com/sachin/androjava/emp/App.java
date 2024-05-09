@@ -10,6 +10,7 @@ public class App {
 		
 		Employee ee =(Employee)  ac.getBean("emp");
 		System.out.println(ee);
+	  
 	}
 
 }
