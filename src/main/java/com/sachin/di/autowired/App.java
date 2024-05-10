@@ -13,5 +13,6 @@ public class App {
 		
 		System.out.println(emp);
 		System.out.println(emp.getAddress().getCity());
+		System.out.println(emp.getAddress().getCity());
 	}
 }
