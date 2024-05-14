@@ -8,7 +8,9 @@ public class App {
 	
 		AnnotationConfigApplicationContext ac = new AnnotationConfigApplicationContext(AppConfig.class);
 		
-
+  
+		
+		Student s = (Student) ac.getBean("stu");
 	}
 
 }
